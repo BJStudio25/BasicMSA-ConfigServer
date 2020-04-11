@@ -1,4 +1,4 @@
-package com.bjstudio.configuration_server.config.security;
+package com.bjstudio.configurationserver.config.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

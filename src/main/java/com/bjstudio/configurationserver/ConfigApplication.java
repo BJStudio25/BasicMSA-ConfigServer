@@ -1,4 +1,4 @@
-package com.bjstudio.configuration_server;
+package com.bjstudio.configurationserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
