@@ -8,12 +8,12 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/BJStudio25/BasicMSA-ConfigServer
+          uri: D:\BasicMSA-Config
 
 eureka:
   client:
     region: default
     registry-fetch-interval-seconds: 5
     service-url:
-      default-zone: http://localhost:8082/eureka/
+      default-zone: http://discUser:discPassword@localhost:8082/eureka/
       
